@@ -1,0 +1,96 @@
+/*!
+ * Start Bootstrap - SB Admin 2 v3.3.7+1 (http://startbootstrap.com/template-overviews/sb-admin-2)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+body {
+  background-color: #f8f8f8;
+}
+
+.left {
+    float: left;
+    width: 50%;
+}
+.right {
+    float: right;
+    width: 50%;
+	margin-top:300px;
+}
+.group:after {
+    content:"";
+    display: table;
+    clear: both;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+@media screen and (max-width: 480px) {
+    .left, 
+    .right {
+        float: none;
+        width: auto;
+		margin-top:10px;		
+    }
+	input[type=password]:focus {
+    background-color: #fff;
+    color: #999;
+	width:100%;
+	}
+	input[type=password] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border:0;
+	border-bottom: 2px solid #939292;
+    background-color: #eae9e9;
+    color: white;
+	padding-right:50px;
+	margin-right:150;
+	width:100%;	
+	}
+#masukinemail {
+	width:100%;
+}
+masukinemail:focus {
+	width:80%;
+}	
+}
+
+#masukinemail {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border:0;
+	    border-bottom: 2px solid #939292;
+   background-color: #eae9e9;
+    color: #999;
+	width:35%;
+}
+#masukinemail:focus {
+    background-color: #fff;
+    color: #999;
+	width:35%;
+}
+input[type=password] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	border:0;
+	    border-bottom: 2px solid #939292;
+    background-color: #eae9e9;
+    color: white;
+	width:45%;
+}
+input[type=password]:focus {
+    background-color: #fff;
+    color: #999;
+	width:45%;
+}
+.switch-field {
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+	overflow: hidden;
+}
+
+
+#ingat{background-color:#FBECF0; border:0; border-left:thick #FF0000 solid; padding-left:10; padding-top:15}

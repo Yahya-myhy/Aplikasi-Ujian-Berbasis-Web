@@ -1,0 +1,6 @@
+[30-Nov-2017 07:33:40 UTC] PHP Warning:  include(../../config/koneksi.php): failed to open stream: No such file or directory in /home/bimbelpo/public_html/unbk/assets/filemanager/config/config.php on line 4
+[30-Nov-2017 07:33:40 UTC] PHP Warning:  include(): Failed opening '../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bimbelpo/public_html/unbk/assets/filemanager/config/config.php on line 4
+[30-Nov-2017 07:33:40 UTC] PHP Notice:  Undefined variable: folder_website in /home/bimbelpo/public_html/unbk/assets/filemanager/config/config.php on line 70
+[02-Dec-2017 05:01:53 UTC] PHP Warning:  include(../../config/koneksi.php): failed to open stream: No such file or directory in /home/bimbelpo/public_html/unbk/assets/filemanager/config/config.php on line 4
+[02-Dec-2017 05:01:53 UTC] PHP Warning:  include(): Failed opening '../../config/koneksi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/bimbelpo/public_html/unbk/assets/filemanager/config/config.php on line 4
+[02-Dec-2017 05:01:53 UTC] PHP Notice:  Undefined variable: folder_website in /home/bimbelpo/public_html/unbk/assets/filemanager/config/config.php on line 70
